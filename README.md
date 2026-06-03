@@ -97,7 +97,6 @@ Estructura de usuarios:
 |---|---|
 | Nmap | Reconocimiento interno |
 | SSH / Reverse Shell | Acceso y persistencia |
-| Samba / FTP | Transferencia de archivos |
 
 **Monitorización y defensa:**
 | Herramienta | Uso |
